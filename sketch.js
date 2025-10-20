@@ -6,8 +6,8 @@ let R2_img;
 
 function preload() {
   table = loadTable("dataset.csv", "csv", "header");
-  R1_img = loadImage("Lancette/R1.png");
-  R2_img = loadImage("Lancette/R2.png");
+  R1_img = loadImage("R1.png");
+  R2_img = loadImage("R2.png");
 }
 
 function setup() {
